@@ -14,7 +14,8 @@ Jenkins-5
 00:29:00-00:45:00
 
 
-Plugins
+Plugins:
+-------------
 Metrics Disk Usuage----CPU Usuage of each job
 Green Balls---------> 
 Deploy container----> to deploy into the node with label
@@ -25,5 +26,8 @@ NextBuild----> Next number
 clone workspace----> clone files after build and clone the job exactly like github
 Manage Node-----> build the job in the another server using label concept
 Role based authorization strategy
+Build Pipeline
+Deliver pipeline
+Nested view
 
 
