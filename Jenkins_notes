@@ -22,9 +22,9 @@ Deploy container----> to deploy into the node with label
 MS Build---Not use
 ReBuild----run/build with same parameter
 Backup-------> Backup all jenkins related 
+Thinbackup---> Backup to the default workspace 
 NextBuild----> Next number 
 clone workspace----> clone files after build and clone the job exactly like github
-Manage Node-----> build the job in the another server using label concept
 Role based authorization strategy
 Build Pipeline
 Deliver pipeline
